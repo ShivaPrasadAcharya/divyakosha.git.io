@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "term": "Dharma",
+    "content": "Dharma refers to the cosmic law and order. It includes duties, rights, laws, conduct, virtues and right way of living. In Buddhism, dharma means 'cosmic law and order', and is applied to the teachings of the Buddha.",
+    "sharedTerms": ["Buddha", "Karma", "Moksha"],
+    "compiledDate": "2024-01-15",
+    "modifiedDate": "2024-03-20"
+  },
+  {
+    "id": "2",
+    "term": "Karma",
+    "content": "Karma literally means 'action', 'work' or 'deed'. It refers to the principle of causality where intent and actions of an individual influence their future. Good intent and good deeds contribute to good karma.",
+    "sharedTerms": ["Dharma", "Moksha", "Samsara"],
+    "compiledDate": "2024-01-20",
+    "modifiedDate": "2024-03-15"
+  }
+]
